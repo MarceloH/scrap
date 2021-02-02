@@ -31,4 +31,11 @@ yarn dev
 
 acesso: localhost:8080
 ```
+## Lojas de exemplo
+
+https://www.saraiva.com.br/mindset-9404582/p
+
+https://www.saraiva.com.br/box-1984-a-revolucao-dos-bichos-2-volumes-acompanha-marcador-de-pagina-poster-e-cards-10681342/p
+
+https://www.amazon.com.br/Xiaomi-Versão-Global-Lacrada-preta/dp/B07V822TVL
 
